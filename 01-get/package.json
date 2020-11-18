@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "name": "01-get",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
